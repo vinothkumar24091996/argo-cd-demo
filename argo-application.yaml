@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/anveshmuppeda/argo-cd-demo
     targetRevision: HEAD
-    path: develoment
+    path: development
 
   destination: 
     server: https://kubernetes.default.svc
